@@ -10,7 +10,7 @@ if test -f $file_name
 then
 	line="$(wc -l < $file_name)"
 	fields=('username' 'password' 'user_id' 'group_id' 'user_id_info' 'home_dir' 'command')
-	while [[ $i -lt $lines ]]
+	while [[ $i -lt $line ]]
 	do
 		i="$((i + 1))"
 		read -r -a fields < <(tail -n 1 <(head -n $i < $file_name))
