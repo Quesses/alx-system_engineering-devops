@@ -7,7 +7,7 @@ do
 	case "$num" in
 		4	)
 			echo "$num"
-			echo "bad luch from China"
+			echo "bad luck from China"
 			;;
 		9	)
 			echo "$num"
