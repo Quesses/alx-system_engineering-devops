@@ -1,4 +1,4 @@
-<center><h1> HTTPS SSL</h1></center>
+<center> <h1> HTTPS SSL </h1> </center>
 
 Concepts
 --------
