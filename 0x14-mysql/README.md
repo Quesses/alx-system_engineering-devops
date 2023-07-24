@@ -8,7 +8,7 @@ For this project, we expect you to look at these concepts:
 * [Web stack debugging](https://intranet.alxswe.com/concepts/68)
 * [How to Install mysql 5.7](https://intranet.alxswe.com/concepts/100002)
 
-[](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/280/KkrkDHT.png)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/280/KkrkDHT.png)
 
 ## Resources
 
