@@ -2,7 +2,7 @@
 
 ## Background Context
 
-[![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/6/897638f42eb1bad6605d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220413T143300Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=130576d62a3bd3a0635c51020a1a31a3bf5846bfe412003a6b63232cb7d05efa)](https://youtu.be/-2kyU6-j8ZQ)
+![[](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/6/897638f42eb1bad6605d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220413T143300Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=130576d62a3bd3a0635c51020a1a31a3bf5846bfe412003a6b63232cb7d05efa)](https://youtu.be/-2kyU6-j8ZQ)
 
 Old-school system administrators usually only know Bash and that is what they use to build their scripts. While Bash is perfectly fine for a lot of things, it can quickly get messy and not efficient compared to other programming languages. The new generation of system administrators, usually called SREs, are pretty much regular software engineers but instead of building products, they are managing systems. And one of the big differences with their predecessors is that they know more than just Bash scripting.
 
